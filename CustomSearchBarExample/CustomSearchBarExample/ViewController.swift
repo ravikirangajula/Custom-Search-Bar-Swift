@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var searchView: RKCustomSearchView!
     @IBOutlet weak var tableView: UITableView!
-   
+   //private var
     let dataArray = ["Ford", "Arthur", "Trillian", "Zaphod", "Marvin", "Deep Thought", "Eddie", "Slartibartfast", "Humma Kuvula"]
     private var searchArray = [String]()
 
